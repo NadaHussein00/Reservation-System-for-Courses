@@ -1,0 +1,353 @@
+﻿  App.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'App/App.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\App\App.c(20,4): warning C4013: 'Admin_Runner' undefined; assuming extern returning int
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\App\App.c(31,3): warning C4013: 'Customer_Runner' undefined; assuming extern returning int
+  BackEnd.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'BackEnd/BackEnd.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(38,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(38,8):
+      consider using '%hhd' in the format string
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(39,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(39,8):
+      consider using '%hhd' in the format string
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(40,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(40,8):
+      consider using '%hd' in the format string
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(203,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(203,10):
+      consider using '%hd' in the format string
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(223,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(223,10):
+      consider using '%hd' in the format string
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(323,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\BackEnd\BackEnd.c(323,10):
+      consider using '%hhd' in the format string
+  
+  course_reg.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Courses_Registeration/course_reg.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Create_Account.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'CreateAccount/Create_Account.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  DB_Manager.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'DB/DB_Manager.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(58,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(153,15): warning C4090: '=': different 'const' qualifiers
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(155,15): warning C4090: '=': different 'const' qualifiers
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(179,15): warning C4090: '=': different 'const' qualifiers
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(181,15): warning C4090: '=': different 'const' qualifiers
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\DB\DB_Manager.c(327,41): warning C4553: '==': result of expression not used; did you intend '='?
+  Login.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Login/Login.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  main.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\main.c(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\main.c(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(149,1): warning C4045: 'name': array bounds overflow
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(184,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(198,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(225,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(238,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(244,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(268,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(274,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(279,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(298,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(307,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(312,24): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(391,1): warning C4045: 'User_Name': array bounds overflow
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password': array bounds overflow
+  (compiling source file 'main.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password_Recheck': array bounds overflow
+  (compiling source file 'main.c')
+  
+  Start_End_Funs.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Start_End_Funs.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(149,1): warning C4045: 'name': array bounds overflow
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(184,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(198,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(225,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(238,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(244,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(268,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(274,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(279,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(298,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(307,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(312,24): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(391,1): warning C4045: 'User_Name': array bounds overflow
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password': array bounds overflow
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password_Recheck': array bounds overflow
+  (compiling source file 'Test/Start_End_Funs.c')
+  
+  Tests.c
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Tests.c')
+      C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(149,1): warning C4045: 'name': array bounds overflow
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(184,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(198,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(225,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(238,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(244,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(268,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(274,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(279,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(298,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(307,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(312,24): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(391,1): warning C4045: 'User_Name': array bounds overflow
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password': array bounds overflow
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.h(401,1): warning C4045: 'Password_Recheck': array bounds overflow
+  (compiling source file 'Test/Tests.c')
+  
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(21,60): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(21,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(22,60): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(22,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(23,60): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(23,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(26,74): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(26,87): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(28,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(28,86): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(30,77): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(30,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(32,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(32,92): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(34,75): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(34,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(35,75): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(35,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(37,76): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(37,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(38,76): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(38,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(39,76): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(39,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(41,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(41,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(42,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(42,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(43,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(43,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(44,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(44,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(45,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(45,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(46,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(46,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(48,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(48,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(49,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(49,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(50,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(50,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(51,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(51,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(52,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(52,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(54,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(54,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(55,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(55,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(56,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(56,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(57,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(57,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(59,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(59,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(60,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(60,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(62,91): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(62,105): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(63,91): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(63,105): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(65,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(65,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(67,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(67,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(69,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(69,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(71,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(71,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(73,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(73,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(75,87): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(75,101): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(77,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(77,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(79,71): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(79,85): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(81,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(81,102): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(83,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(83,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(85,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(85,104): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(87,76): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(87,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(89,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(89,104): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(91,75): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(91,89): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(93,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(93,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(95,83): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(95,97): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(97,71): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(97,85): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(99,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(99,102): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(101,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(101,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(103,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(103,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(105,60): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(105,74): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(107,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(107,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(109,87): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(109,101): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(111,93): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(111,107): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(113,95): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(113,109): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(115,94): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(115,108): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(117,96): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\Test\Tests.c(117,110): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+  Generating Code...
+cunit.lib(TestDB.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(TestDB.obj)' or at ''; linking object as if no debug info
+cunit.lib(TestRun.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(TestRun.obj)' or at ''; linking object as if no debug info
+cunit.lib(Console.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(Console.obj)' or at ''; linking object as if no debug info
+cunit.lib(CUError.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(CUError.obj)' or at ''; linking object as if no debug info
+cunit.lib(Util.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(Util.obj)' or at ''; linking object as if no debug info
+cunit.lib(MessageHandlers.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(MessageHandlers.obj)' or at ''; linking object as if no debug info
+  Final_Project.vcxproj -> C:\Users\Nada Hussein\Documents\Edges Testing Diploma Fall 2024 (5)\Final Project Documentations\Final_Project\x64\Debug\Final_Project.exe
