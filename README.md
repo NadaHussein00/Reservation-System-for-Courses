@@ -26,11 +26,12 @@ Applied MC/DC (Modified Condition/Decision Coverage), boundary value analysis, a
 
 # Deliverables
 
-A detailed test report documenting test cases, execution results, and detected issues.
-Bug reports and recommendations for software improvement.
-Code coverage analysis and validation using industry-standard testing techniques.
-How to Run Tests
-Clone the repository and navigate to the project directory.
-Install dependencies and the CUnit framework.
-Run the test suite using the provided test script.
-Analyze test results and logs to identify potential failures.
+1- A detailed test report documenting test cases, execution results, and detected issues.
+2- Bug reports and recommendations for software improvement.
+3- Code coverage analysis and validation using industry-standard testing techniques.
+
+# How to Run Tests
+1- Navigate to the project directory.
+2- Install dependencies and the CUnit framework.
+3- Run the test suite using the provided test script.
+4- Analyze test results and logs to identify potential failures.
